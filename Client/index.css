@@ -1,0 +1,27 @@
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  
+  #product-list div {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #product-form {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #product-form input {
+    margin: 5px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 5px 10px;
+  }
+  
