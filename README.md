@@ -1,4 +1,4 @@
-# productList Web App
+# ProductList Web App
 
 This web application allows users to view a  list of products and perform CRUD operations (Create, Read, Update, Delete) on the product list.
 
